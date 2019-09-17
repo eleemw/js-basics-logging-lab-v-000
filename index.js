@@ -1,5 +1,5 @@
 const driver = 'bob';
 
-console.log(){
+console.log(driver){
   "This code was called"
 };
