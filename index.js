@@ -1,3 +1,3 @@
 const driver = 'bob';
 
-console.console.log(driver);
+console.log(driver);
