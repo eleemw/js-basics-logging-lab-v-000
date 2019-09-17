@@ -1,3 +1,4 @@
 let driver = 'bob';
 
-console.log();
+console.log(driver);
+
